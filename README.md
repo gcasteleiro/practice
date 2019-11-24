@@ -1,2 +1,1 @@
-This is where I practice stuff. Tidy Tuesday or otherwise. 
-trains.png
+This is where I practice stuff. Tidy Tuesday or otherwise.
