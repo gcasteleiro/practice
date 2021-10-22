@@ -1,7 +1,8 @@
 people = [
     {"name": "Harry", "house": "Gryffindor"},
     {"name": "Cho", "house": "Ravenclaw"},
-    {"name": "Draco","house": "Slytherin"}
+    {"name": "Draco","house": "Slytherin"},
+    {"name": "Hermione", "house":"Gryffindor"}
 ]
 #sort using function below
 def f(person):
